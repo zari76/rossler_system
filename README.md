@@ -1,2 +1,2 @@
-# rossler_system
+# Rossler_system_canonical_forms
 phase_portrait
