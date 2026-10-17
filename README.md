@@ -1,2 +1,5 @@
 # Rossler_system_canonical_forms
-phase_portrait
+smooth autonomous system
+smooth nonautonomous system
+nonsmooth autonomous system
+nonsmooth nonautonomous system
